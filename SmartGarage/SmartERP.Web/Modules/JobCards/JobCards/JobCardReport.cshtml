@@ -1,0 +1,505 @@
+﻿@model SmartGarage.Web.Modules.JobCards.JobCards.JobCardsRowData
+
+@if ((bool?)ViewData["Printing"] == true)
+{
+    Layout = MVC.Views.Shared._LayoutNoNavigation;
+    ViewData["Title"] = " JobCards";
+}
+else
+{
+    ViewData["Title"] = " JobCards";
+}
+
+<section id="section1">
+
+    <h4 style="text-align:end; padding: 0px 157px 0px 0px;" >
+
+
+        <button id="sendMailButton"><b><i class="fa fa-send-o text-blue"></i></b>  SendMail</button>
+        <button id="downloadButton"><i class="fa fa-file-pdf-o text-red"></i>  DownloadPDF</button>
+    </h4>
+    <section id="section">
+    <div >
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+    </div>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 1px;
+            }
+
+            .jobTitle {
+                border: 1px solid;
+            }
+
+            .job {
+                width: 100% !important;
+                padding: 0px !important;
+                max-width: 700px;
+                margin: auto;
+                border: 1px solid #000;
+            }
+
+            .header {
+                text-align: center;
+                padding: 0px;
+                
+                font-weight: 600;
+                font-size: 20px;
+            }
+
+            .job-details .logo img {
+                width: 117px;
+                padding: 4px;
+                padding-right: 15px;
+                padding-left: 10px;
+                padding-top: 4px;
+            }
+
+            .job-details {
+                border-left: 1px solid;
+                border-right: 1px solid;
+                border-bottom: 2px solid;
+                border-top: 1px solid;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+
+            .companyName {
+                margin-left: -710px;
+                font-size: 25px;
+                font-weight: 700;
+            }
+
+            .companySubtitle {
+                margin-left: -710px;
+                padding: 0px 0px 0px 0px;
+                font-family: cursive;
+                font-size: 11px;
+                font-style: italic;
+                font-weight: 700;
+            }
+
+            .companyAddress1 {
+                margin-left: -710px;
+                line-height: 1;
+                font-size: 11px;
+                font-weight: 700;
+            }
+
+            .companyAddress2 {
+                margin-left: -710px;
+                line-height: 1.2;
+                font-size: 11px;
+                font-weight: 700;
+            }
+
+            .companyAddress3 {
+                margin-left: -710px;
+                font-size: 11px;
+                line-height: 1;
+                font-weight: 700;
+            }
+
+            .companyAddress4 {
+                margin-left: -710px;
+                line-height: 1;
+                font-size: 11px;
+                font-weight: 700;
+            }
+
+            .table-container {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .table-cell {
+                padding-right: 2px;
+                border-left: 1px solid;
+                border-right: 1px solid;
+                padding: 0px 10px;
+                font-weight: 700;
+            }
+
+            .customerName {
+                border-bottom: 1px solid;
+                border-top: 2px solid;
+                border-left: 1px solid;
+                border-right: 1px solid;
+                padding: 0px 0px;
+                font-weight: 700;
+            }
+
+
+            .job {
+                width: 90%;
+                padding: 10px;
+            }
+
+        </style>
+
+        @*  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> *@
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+    </head>
+    <body id="bt">
+        <div class="job" id="Job11">
+            <div class="header jobTitle" padding=" 1px 11px">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+                       
+                        <tr> 
+                            <td width="33%"> </td>
+                            <td width="33%" style="text-decoration: underline;"> JobCard</td>
+                            <td width="33%" style="text-align:end;font-size:16px;"> Job Id          :  @Model.Order.Id </td>
+                        </tr>
+                </table>
+                   
+            </div>
+            <div class="job-details">
+                <div class="logo">
+                    @if (Model.Company != null && !String.IsNullOrEmpty(Model.Company.SaleLogo))
+                    {
+                        <img src="/upload/@Model.Company.Logo" style="height:100px" />
+                    }
+                </div>
+                <div class="" style="text-align: center;">
+                    <div class="companyName" style="text-align: center;">@Model.Company.CompanyName</div>
+                    <div class="companySubtitle" style="text-align: center;"><span>*Feel the Difference*</span></div>
+                    <div class="companyAddress1" style="text-align: center;">@Model.Company.Address</div>
+                    <div class="companyAddress2" style="text-align: center;">MORATTANDI-605101</div>
+                    <div class="companyAddress3" style="text-align: center;">24*7 FOR HELP LINE : @Model.Company.Phone APPOINTMENT : @Model.Company.Phone</div>
+                    <div class="companyAddress4" style="text-align: center;">
+                        @Model.Company.CompanyEmail
+         
+                    </div>
+                </div>
+            </div>
+
+<div>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- Table for two columns -->
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:12px;padding:0px 0px 0px 0px;">
+                                        <tr style="text-align:center">
+                                            <td width="30%" style="text-align:left; border-left:1px solid;border-right:2px solid; border-bottom:2px solid;padding-left:2px;"><b>Customer Info</b></td>
+                                            <td width="30%" style="text-align:left; border-left:0px solid;border-right:2px solid;border-bottom:2px solid;padding-left:2px;"><b>Vehicle Info</b></td>
+                                            <td width="40%" style="text-align:left; border-left:0px solid;border-right:1px solid;border-bottom:2px solid;padding-left:2px;"><b>Service Info</b></td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;">CustomerName : @Model.Customer.Name</td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;">VehicleRegn   : @Model.Vehicle.VehicleRegistration</td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">Date&Time      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:@Model.Order.ScheduleDatetime</td>
+                                        </tr>
+                                        <tr >
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;">MobileNo      :@Model.Customer.Phone</td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;">Model         :@Model.Vehicle.Model</td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">
+                                            ROType : PM/GR/BP       &nbsp;&nbsp;&nbsp;&nbsp;            |                  RO SUB Type : FS/PS
+                                </td>
+                            </tr>
+                            <tr>
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;">MobileNo      :@Model.Customer.Phone</td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;">ChassisNo     :@Model.Vehicle.ChassisNo</td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">Mileage       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:@Model.Vehicle.Mileage</td>
+                            </tr>
+                            <tr>
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;">Email-Id      :@Model.Customer.Email</td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;">EnginNo       :@Model.Vehicle.EngineNo</td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">Appointment Date&Time   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>:</b> </td>
+                            </tr>
+                            <tr>
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;">Address1        :</td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:2px solid">Wty.St.Dt:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  EndDt:    </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">ArrivalDate&Time: @Model.Order.ScheduleDatetime</td>
+                            </tr>
+                            <tr>
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;">SellingDealer     :</td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">DeliveryDate&Time :@Model.Order.DeliveryDatetime</td>
+                            </tr>
+                        </table>
+                        </td>
+                        </tr>
+                        </table>
+
+
+</div>
+
+                    <div>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- Table for two columns -->
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:12px;padding:0px 0px 0px 0px;">
+                                        <tr style="text-align:center">
+                                            <td width="50%" style="text-align:left; border-left:1px solid;border-right:2px solid; border-bottom:2px solid; border-top:2px solid;"><b>Voice of Coustomer/Request</b></td>
+                                            <td width="20%" style="text-align:left; border-left:0px solid;border-right:2px solid;border-bottom:2px solid;border-top:2px solid;"><b>Repair Details</b></td>
+                                            <td width="15%" style="text-align:left; border-left:0px solid;border-right:2px solid;border-bottom:2px solid;border-top:2px solid;"><b>Parts Estimate</b></td>
+                                       
+                                            <td width="15%" style="text-align:left; border-left:0px solid;border-right:1px solid;border-bottom:2px solid;border-top:2px solid;"><b>Labour Estimate</b></td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid">  <br/>   </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid">     </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"><br /> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid"> <br /></td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:2px solid"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> </td>
+                                        </tr>
+                                        <tr style="text-align:left">
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;border-top:2px solid;"> <b>Total Estimated FRT</b></td>
+                                            <td style="text-align:right; border-left:0px solid;border-right:2px solid;border-top:2px solid;"><b>Total Estimated Rs:</b> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:0px solid;border-top:2px solid;"> </td>
+                                            <td style="text-align:left; border-left:0px solid;border-right:1px solid;border-top:2px solid;"> </td>
+                                        </tr>
+
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </div>
+
+
+
+                <div>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td>
+                                <!-- Table for two columns -->
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:12px;padding:0px 0px 0px 0px;">
+                                    <tr style="text-align:center">
+                                        <td width="22.5%" style="text-align:left; border-left:1px solid;border-right:2px solid; border-bottom:2px solid; border-top:2px solid;"><b>Job Discription</b></td>
+                                                                              <td width="15%" style="text-align:left; border-left:1px solid;border-right:2px solid;border-bottom:2px solid;border-top:2px solid;"><b>Parts</b></td>
+                                        <td width="15%" style="text-align:left; border-left:1px solid;border-right:2px solid;border-bottom:2px solid;border-top:2px solid;"><b>Labour</b></td>
+                                        <td width="15%" style="text-align:left; border-left:0px solid;border-right:2px solid;border-bottom:2px solid;border-top:2px solid;"><b>FRT</b></td>
+
+                                        <td width="22.5%" style="text-align:left; border-left:0px solid;border-right:1px solid;border-bottom:2px solid;border-top:2px solid;"><b>Customer Approval-Aditional Jobs</b></td>
+                                    </tr>
+                                    <tr style="text-align:left">
+                                        <td style="text-align:left; border-left:1px solid;border-right:2px solid">  <br />   </td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                                        <td style="text-align:left; border-left:0px solid;border-right:1px solid">  Date & Time of Intimation:    </td>
+                                    </tr>
+                        </tr>
+                        <tr style="text-align:left">
+                            <td style="text-align:left; border-left:1px solid;border-right:2px solid">  <br />   </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:1px solid"> Customer Agreed <i class="fa fa-square-o" style=""> Yes</i>  <i class="fa fa-square-o" style=""> No</i>        </td>
+                        </tr>
+                        </tr>
+                        <tr style="text-align:left">
+                            <td style="text-align:left; border-left:1px solid;border-right:2px solid">  <br />   </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:1px solid">     </td>
+                        </tr>
+                        </tr>
+                        <tr style="text-align:left">
+                            <td style="text-align:left; border-left:1px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:2px solid">     </td>
+                            <td style="text-align:left; border-left:0px solid;border-right:1px solid">  Service Advisor Signature    </td>
+                        </tr>
+
+                                   
+
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+
+                </div>
+
+
+<div>
+                        <div>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td>
+                                        <!-- Table for two columns -->
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:12px;padding:0px 0px 0px 0px;">
+                                            <tr style="text-align:center">
+                                                <td width="33.3%" style="text-align:left; border-left:1px solid;border-right:2px solid; border-bottom:0px solid;padding-left:2px;border-top:2px solid;"><b>I Agree To:</b></td>
+                                                <td width="33.3%" style="text-align:left; border-left:0px solid;border-right:2px solid;border-bottom:0px solid;border-top:2px solid;padding-left:2px;"><b>I Certify That:</b></td>
+                                                <td width="33.3%" style="text-align:left; border-left:0px solid;border-right:1px solid;border-bottom:0px solid;border-top:2px solid;padding-left:2px;"><b>Service Advicor Name</b></td>
+                                            </tr>
+                                            <tr style="text-align:left">
+                                                <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;"><i class="fa fa-square-o" style=""> Terms&Condition</i></td>
+                                                <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;"><i class="fa fa-square-o" style=""></i> Work done to my stisfaction</td>
+                                                <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;">Contact No:</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;"><i class="fa fa-square-o" style=""> Explanation of Estimate</i></td>
+                                                <td style="text-align:left; border-left:0px solid;border-right:2px solid;padding-left:2px;"><i class="fa fa-square-o" style=""> Job Details & Charges Explatined</i></td>
+                                                <td style="text-align:left; border-left:0px solid;border-right:1px solid;padding-left:2px;"></td>
+                                            </tr>
+                                            <tr>
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;border-bottom:2px solid;"><i class="fa fa-square-o" style=""> Vehicle Pre Inpection</i>  Customer Signature</td>
+                                            <td style="text-align:left; border-left:1px solid;border-right:2px solid;padding-left:2px;border-bottom:2px solid;"><i class="fa fa-square-o" style="">Vehicle in Good Condition </i></td>
+                                            <td style="text-align:left; border-left:1px solid;border-right:1px solid;padding-left:1px;border-bottom:2px solid;"> Service Advisor Signature</td>
+                                            </tr>
+                                                                                  
+                                        </table>
+
+
+                        </div>
+</div>
+<div>
+    <table>
+        <tr>
+            <td> <b>Terms & Condition</b></td>
+        </tr>
+                        <tr>
+                            <td> </td>
+                        </tr>
+    </table>
+    
+</div>
+            
+</div>
+
+    </body>
+    <script>
+
+        document.getElementById("downloadButton").addEventListener("click", function () {
+            const section = document.getElementById("Job11"); // Select the section containing your content
+            const opt = {
+                margin: 10,
+                filename: 'JobCard.pdf',
+                image: { type: 'jpeg', quality: 0.98 },
+                html2canvas: { scale: 2 },
+                jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+
+            };
+
+            html2pdf().set(opt).from(section).save();
+                    alert("JobCard PDF Download Successfully")
+
+        });
+    </script>
+    <script>
+        document.getElementById("sendMailButton").addEventListener("click", function () {
+            const section = document.getElementById("section");
+            var content = section.innerHTML;
+            var email = '@Model.Customer.Email';
+            const dataToSend = {
+                content: content,
+                email: email
+            };
+            $.ajax({
+                url: '/Services/JobCards/JobCards/Email',
+                type: 'POST',
+                data: JSON.stringify(dataToSend),
+                contentType: "application/json",
+                success: function (response) {
+                    if (response.success) {
+                        alert('JobCard PDF sent to Mail successfully.');
+                    } else {
+                        alert('Failed to send PDF to Mail.');
+                    }
+                },
+                error: function () {
+                      alert('An error occurred while sending the JobCardsPDF to the Mail.');
+                }
+            });
+        });
+    </script>
+
+
+</section>
+</section>

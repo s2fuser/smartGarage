@@ -1,0 +1,137 @@
+{
+  "RootNamespace": "SmartERP",
+  "ServerTypings": {
+    "LocalTexts": true
+  },
+  "Connections": [
+    {
+      "Key": "Default",
+      "Tables": [
+        {
+          "Tablename": "dbo.AssemblyTypes",
+          "Identifier": "AssemblyTypes",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.ColorTypes",
+          "Identifier": "ColorTypes",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.FuelTypes",
+          "Identifier": "FuelTypes",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.GatePasses",
+          "Identifier": "GatePasses",
+          "Module": "JobCards",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.InspectionChecklist",
+          "Identifier": "InspectionChecklist",
+          "Module": "Inspections",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.InspectionJobTypes",
+          "Identifier": "InspectionJobTypes",
+          "Module": "Inspections",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.InvoiceItems",
+          "Identifier": "InvoiceItems",
+          "Module": "Invoices",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.InvoiceJobItems",
+          "Identifier": "InvoiceJobItems",
+          "Module": "Invoices",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Invoices",
+          "Identifier": "Invoices",
+          "Module": "Invoices",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.JobCardDetails",
+          "Identifier": "JobCardDetails",
+          "Module": "JobCards",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.JobCards",
+          "Identifier": "JobCards",
+          "Module": "JobCards",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.JobCategories",
+          "Identifier": "JobCategories",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.JobTypes",
+          "Identifier": "JobTypes",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.QuotationJobItems",
+          "Identifier": "QuotationJobItems",
+          "Module": "Quotations",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.VehicleBookings",
+          "Identifier": "VehicleBookings",
+          "Module": "Bookings",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.VehicleCourtesyBooking",
+          "Identifier": "VehicleCourtesyBooking",
+          "Module": "Bookings",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.VehicleMakes",
+          "Identifier": "VehicleMakes",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.VehicleModels",
+          "Identifier": "VehicleModels",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Vehicles",
+          "Identifier": "Vehicles",
+          "Module": "Vehicles",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.VehicleTypes",
+          "Identifier": "VehicleTypes",
+          "Module": "Masters",
+          "PermissionKey": "Administration:General"
+        }
+      ]
+    }
+  ],
+  "UpgradeInfo": {
+    "InitialType": "Community",
+    "InitialVersion": "5.0.24.0"
+  }
+}

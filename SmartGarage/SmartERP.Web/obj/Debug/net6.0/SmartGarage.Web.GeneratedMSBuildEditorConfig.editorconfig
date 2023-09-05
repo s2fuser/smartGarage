@@ -1,0 +1,513 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SmartGarage.Web
+build_property.RootNamespace = SmartGarage.Web
+build_property.ProjectDir = F:\SmartGarage\SmartGarage\SmartERP.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = F:\SmartGarage\SmartGarage\SmartERP.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/Accounts/AccountsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xBY2NvdW50c1xBY2NvdW50c0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/BankTransactions/BankTransactionsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xCYW5rVHJhbnNhY3Rpb25zXEJhbmtUcmFuc2FjdGlvbnNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/CashAdjustment/CashAdjustmentIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xDYXNoQWRqdXN0bWVudFxDYXNoQWRqdXN0bWVudEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/ContraVoucher/ContraVoucherIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xDb250cmFWb3VjaGVyXENvbnRyYVZvdWNoZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/CreditVoucher/CreditVoucherIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xDcmVkaXRWb3VjaGVyXENyZWRpdFZvdWNoZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/CustomerReceive/CustomerReceiveIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xDdXN0b21lclJlY2VpdmVcQ3VzdG9tZXJSZWNlaXZlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/DebitVoucher/DebitVoucherIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xEZWJpdFZvdWNoZXJcRGViaXRWb3VjaGVySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/JournalVoucher/JournalVoucherIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xKb3VybmFsVm91Y2hlclxKb3VybmFsVm91Y2hlckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/OpeningBalance/OpeningBalanceIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xPcGVuaW5nQmFsYW5jZVxPcGVuaW5nQmFsYW5jZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/SupplierPayment/SupplierPaymentIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xTdXBwbGllclBheW1lbnRcU3VwcGxpZXJQYXltZW50SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Accounts/Transactions/TransactionsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBY2NvdW50c1xUcmFuc2FjdGlvbnNcVHJhbnNhY3Rpb25zSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Cities/CitiesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxDaXRpZXNcQ2l0aWVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Companies/CompaniesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxDb21wYW5pZXNcQ29tcGFuaWVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Countries/CountriesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxDb3VudHJpZXNcQ291bnRyaWVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Currencies/CurrenciesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxDdXJyZW5jaWVzXEN1cnJlbmNpZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Language/LanguageIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxMYW5ndWFnZVxMYW5ndWFnZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Regions/RegionsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxSZWdpb25zXFJlZ2lvbnNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Role/RoleIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxSb2xlXFJvbGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Shippers/ShippersIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxTaGlwcGVyc1xTaGlwcGVyc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/States/StatesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxTdGF0ZXNcU3RhdGVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Territories/TerritoriesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxUZXJyaXRvcmllc1xUZXJyaXRvcmllc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Translation/TranslationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxUcmFuc2xhdGlvblxUcmFuc2xhdGlvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/User/UserIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxVc2VyXFVzZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Administration/Warehouses/WarehousesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xBZG1pbmlzdHJhdGlvblxXYXJlaG91c2VzXFdhcmVob3VzZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Banks/Banks/BanksIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xCYW5rc1xCYW5rc1xCYW5rc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Bookings/VehicleBookings/VehicleBookingsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xCb29raW5nc1xWZWhpY2xlQm9va2luZ3NcVmVoaWNsZUJvb2tpbmdzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Bookings/VehicleCourtesyBooking/VehicleCourtesyBookingIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xCb29raW5nc1xWZWhpY2xlQ291cnRlc3lCb29raW5nXFZlaGljbGVDb3VydGVzeUJvb2tpbmdJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Common/Dashboard/DashboardIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xDb21tb25cRGFzaGJvYXJkXERhc2hib2FyZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Common/Reporting/ReportPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xDb21tb25cUmVwb3J0aW5nXFJlcG9ydFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Customers/Customers/CustomersIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xDdXN0b21lcnNcQ3VzdG9tZXJzXEN1c3RvbWVyc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Expenses/Expenses/ExpensesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xFeHBlbnNlc1xFeHBlbnNlc1xFeHBlbnNlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Expenses/ExpenseTypes/ExpenseTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xFeHBlbnNlc1xFeHBlbnNlVHlwZXNcRXhwZW5zZVR5cGVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/HumanResource/Attendance/AttendanceIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xIdW1hblJlc291cmNlXEF0dGVuZGFuY2VcQXR0ZW5kYW5jZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/HumanResource/Departments/DepartmentsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xIdW1hblJlc291cmNlXERlcGFydG1lbnRzXERlcGFydG1lbnRzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/HumanResource/Designations/DesignationsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xIdW1hblJlc291cmNlXERlc2lnbmF0aW9uc1xEZXNpZ25hdGlvbnNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/HumanResource/Employees/EmployeesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xIdW1hblJlc291cmNlXEVtcGxveWVlc1xFbXBsb3llZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inspections/InspectionChecklist/InspectionChecklistIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnNwZWN0aW9uc1xJbnNwZWN0aW9uQ2hlY2tsaXN0XEluc3BlY3Rpb25DaGVja2xpc3RJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inspections/Inspections/InspectionsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnNwZWN0aW9uc1xJbnNwZWN0aW9uc1xJbnNwZWN0aW9uc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inventory/DamagedProducts/DamagedProductsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZlbnRvcnlcRGFtYWdlZFByb2R1Y3RzXERhbWFnZWRQcm9kdWN0c0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inventory/GoodsIssueDetails/GoodsIssueDetailsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZlbnRvcnlcR29vZHNJc3N1ZURldGFpbHNcR29vZHNJc3N1ZURldGFpbHNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inventory/GoodsIssue/GoodsIssueIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZlbnRvcnlcR29vZHNJc3N1ZVxHb29kc0lzc3VlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inventory/GoodsReceiptDetails/GoodsReceiptDetailsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZlbnRvcnlcR29vZHNSZWNlaXB0RGV0YWlsc1xHb29kc1JlY2VpcHREZXRhaWxzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Inventory/GoodsReceipt/GoodsReceiptIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZlbnRvcnlcR29vZHNSZWNlaXB0XEdvb2RzUmVjZWlwdEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Invoices/InvoiceItems/InvoiceItemsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZvaWNlc1xJbnZvaWNlSXRlbXNcSW52b2ljZUl0ZW1zSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Invoices/InvoiceJobItems/InvoiceJobItemsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZvaWNlc1xJbnZvaWNlSm9iSXRlbXNcSW52b2ljZUpvYkl0ZW1zSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Invoices/Invoices/InvoiceIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZvaWNlc1xJbnZvaWNlc1xJbnZvaWNlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Invoices/Invoices/InvoiceReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZvaWNlc1xJbnZvaWNlc1xJbnZvaWNlUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Invoices/Invoices/InvoicesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xJbnZvaWNlc1xJbnZvaWNlc1xJbnZvaWNlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/JobCards/GatePasses/GatePassesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xKb2JDYXJkc1xHYXRlUGFzc2VzXEdhdGVQYXNzZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/JobCards/JobCardDetails/JobCardDetailsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xKb2JDYXJkc1xKb2JDYXJkRGV0YWlsc1xKb2JDYXJkRGV0YWlsc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/JobCards/JobCards/JobCardReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xKb2JDYXJkc1xKb2JDYXJkc1xKb2JDYXJkUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/JobCards/JobCards/JobCardsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xKb2JDYXJkc1xKb2JDYXJkc1xKb2JDYXJkc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/AgendaItemTypes/AgendaItemTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEFnZW5kYUl0ZW1UeXBlc1xBZ2VuZGFJdGVtVHlwZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/AssemblyTypes/AssemblyTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEFzc2VtYmx5VHlwZXNcQXNzZW1ibHlUeXBlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/AttendanceStatuses/AttendanceStatusesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEF0dGVuZGFuY2VTdGF0dXNlc1xBdHRlbmRhbmNlU3RhdHVzZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/AttendeeTypes/AttendeeTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEF0dGVuZGVlVHlwZXNcQXR0ZW5kZWVUeXBlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/ColorTypes/ColorTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXENvbG9yVHlwZXNcQ29sb3JUeXBlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/CustomerGroups/CustomerGroupsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEN1c3RvbWVyR3JvdXBzXEN1c3RvbWVyR3JvdXBzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/FuelTypes/FuelTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEZ1ZWxUeXBlc1xGdWVsVHlwZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/JobCategories/JobCategoriesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEpvYkNhdGVnb3JpZXNcSm9iQ2F0ZWdvcmllc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/JobTypes/JobTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXEpvYlR5cGVzXEpvYlR5cGVzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/Locations/LocationsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXExvY2F0aW9uc1xMb2NhdGlvbnNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/MeetingTypes/MeetingTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXE1lZXRpbmdUeXBlc1xNZWV0aW5nVHlwZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/ResolutionStatuses/ResolutionStatusesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXFJlc29sdXRpb25TdGF0dXNlc1xSZXNvbHV0aW9uU3RhdHVzZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/SupplierGroups/SupplierGroupsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXFN1cHBsaWVyR3JvdXBzXFN1cHBsaWVyR3JvdXBzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/VehicleMakes/VehicleMakesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXFZlaGljbGVNYWtlc1xWZWhpY2xlTWFrZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/VehicleModels/VehicleModelsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXFZlaGljbGVNb2RlbHNcVmVoaWNsZU1vZGVsc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Masters/VehicleTypes/VehicleTypesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXN0ZXJzXFZlaGljbGVUeXBlc1xWZWhpY2xlVHlwZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Meeting/AgendaDecisions/AgendaDecisionsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZWV0aW5nXEFnZW5kYURlY2lzaW9uc1xBZ2VuZGFEZWNpc2lvbnNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Meeting/AgendaItems/AgendaItemsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZWV0aW5nXEFnZW5kYUl0ZW1zXEFnZW5kYUl0ZW1zSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Meeting/MeetingAttendees/MeetingAttendeesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZWV0aW5nXE1lZXRpbmdBdHRlbmRlZXNcTWVldGluZ0F0dGVuZGVlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Meeting/Meetings/MeetingsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZWV0aW5nXE1lZXRpbmdzXE1lZXRpbmdzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/AccountLogin.AdminLTE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcQWNjb3VudExvZ2luLkFkbWluTFRFLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/AccountLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcQWNjb3VudExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/ChangePassword/AccountChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcQ2hhbmdlUGFzc3dvcmRcQWNjb3VudENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/ForgotPassword/AccountForgotPassword.AdminLTE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcRm9yZ290UGFzc3dvcmRcQWNjb3VudEZvcmdvdFBhc3N3b3JkLkFkbWluTFRFLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/ForgotPassword/AccountForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcRm9yZ290UGFzc3dvcmRcQWNjb3VudEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/ResetPassword/AccountResetPassword.AdminLTE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxBY2NvdW50UmVzZXRQYXNzd29yZC5BZG1pbkxURS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/ResetPassword/AccountResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxBY2NvdW50UmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/ResetPassword/AccountResetPasswordEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxBY2NvdW50UmVzZXRQYXNzd29yZEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/SignUp/AccountActivateEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXEFjY291bnRBY3RpdmF0ZUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/SignUp/AccountSignUp.AdminLTE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXEFjY291bnRTaWduVXAuQWRtaW5MVEUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/Account/SignUp/AccountSignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXEFjY291bnRTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Membership/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Products/Brands/BrandsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQcm9kdWN0c1xCcmFuZHNcQnJhbmRzSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Products/Categories/CategoriesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQcm9kdWN0c1xDYXRlZ29yaWVzXENhdGVnb3JpZXNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Products/Products/ProductsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQcm9kdWN0c1xQcm9kdWN0c1xQcm9kdWN0c0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Products/Units/UnitsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQcm9kdWN0c1xVbml0c1xVbml0c0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Purchases/PurchaseDetails/PurchaseDetailsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQdXJjaGFzZXNcUHVyY2hhc2VEZXRhaWxzXFB1cmNoYXNlRGV0YWlsc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Purchases/Purchases/PurchasesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQdXJjaGFzZXNcUHVyY2hhc2VzXFB1cmNoYXNlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Purchases/Purchases/PurchasesReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xQdXJjaGFzZXNcUHVyY2hhc2VzXFB1cmNoYXNlc1JlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Quotations/QuotationDetails/QuotationDetailsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xRdW90YXRpb25zXFF1b3RhdGlvbkRldGFpbHNcUXVvdGF0aW9uRGV0YWlsc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Quotations/QuotationJobItems/QuotationJobItemsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xRdW90YXRpb25zXFF1b3RhdGlvbkpvYkl0ZW1zXFF1b3RhdGlvbkpvYkl0ZW1zSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Quotations/Quotations/QuotationReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xRdW90YXRpb25zXFF1b3RhdGlvbnNcUXVvdGF0aW9uUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Quotations/Quotations/QuotationsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xRdW90YXRpb25zXFF1b3RhdGlvbnNcUXVvdGF0aW9uc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/ClosingReport/ClosingReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXENsb3NpbmdSZXBvcnRcQ2xvc2luZ1JlcG9ydEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/CustomerReceivableReport/CustomerReceivableReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXEN1c3RvbWVyUmVjZWl2YWJsZVJlcG9ydFxDdXN0b21lclJlY2VpdmFibGVSZXBvcnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/DailyClosing/CloseDayIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXERhaWx5Q2xvc2luZ1xDbG9zZURheUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/DailyClosing/DailyClosingIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXERhaWx5Q2xvc2luZ1xEYWlseUNsb3NpbmdJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/ProductWiseSalesReport/ProductWiseSalesReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFByb2R1Y3RXaXNlU2FsZXNSZXBvcnRcUHJvZHVjdFdpc2VTYWxlc1JlcG9ydEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/ProfitReport/ProfitReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFByb2ZpdFJlcG9ydFxQcm9maXRSZXBvcnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/PurchaseRepor/PurchaseReporIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFB1cmNoYXNlUmVwb3JcUHVyY2hhc2VSZXBvckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/SaleReport/SaleReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFNhbGVSZXBvcnRcU2FsZVJlcG9ydEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/StockReport/StockReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFN0b2NrUmVwb3J0XFN0b2NrUmVwb3J0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/SupplierPayableReport/SupplierPayableReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFN1cHBsaWVyUGF5YWJsZVJlcG9ydFxTdXBwbGllclBheWFibGVSZXBvcnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Reports/TodaysReport/TodaysReportIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xSZXBvcnRzXFRvZGF5c1JlcG9ydFxUb2RheXNSZXBvcnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Sales/SaleDetails/SaleDetailsIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xTYWxlc1xTYWxlRGV0YWlsc1xTYWxlRGV0YWlsc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Sales/Sales/SalesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xTYWxlc1xTYWxlc1xTYWxlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Sales/Sales/SalesReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xTYWxlc1xTYWxlc1xTYWxlc1JlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Suppliers/Suppliers/SuppliersIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xTdXBwbGllcnNcU3VwcGxpZXJzXFN1cHBsaWVyc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/Vehicles/Vehicles/VehiclesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xWZWhpY2xlc1xWZWhpY2xlc1xWZWhpY2xlc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Modules/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Errors/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Errors/ValidationError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXFZhbGlkYXRpb25FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/LeftNavigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExlZnROYXZpZ2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/_LayoutHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/_LayoutNoNavigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROb05hdmlnYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/_LayoutSlim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTbGltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/Shared/_LayoutSlimHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTbGltSGVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SmartGarage/SmartGarage/SmartERP.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

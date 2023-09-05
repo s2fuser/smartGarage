@@ -1,0 +1,6 @@
+1. Update database
+>>>no change in database
+
+2. upload all content from /Compiled/ folder to your webserver
+
+Its done now your application is updated from V 1.1 to V 2.0

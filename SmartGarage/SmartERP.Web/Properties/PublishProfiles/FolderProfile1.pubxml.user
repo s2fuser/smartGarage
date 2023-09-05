@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\SmartGarage\SmartGarage\SmartERP.Web\bin\Debug\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-09-01T11:46:25.4776869Z;True|2023-09-01T16:40:40.9187007+05:30;True|2023-09-01T15:50:37.1576544+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

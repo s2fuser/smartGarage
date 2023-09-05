@@ -1,0 +1,1685 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\.csslintrc",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\.csslintrc"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\404_500_errors.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\404_500_errors.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\AdminLTE.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\AdminLTE.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\alerts.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\alerts.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\bootstrap-social.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\bootstrap-social.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\boxes.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\boxes.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\buttons.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\buttons.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\callout.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\callout.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\carousel.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\carousel.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\control-sidebar.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\control-sidebar.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\core.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\core.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\direct-chat.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\direct-chat.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\dropdown.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\dropdown.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\forms.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\forms.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\fullcalendar.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\fullcalendar.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\header.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\header.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\avatar.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\avatar04.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\avatar2.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\avatar3.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\avatar5.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\icons.png",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\icons.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\photo1.jpg",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\photo1.jpg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\img\\photo2.jpg",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\img\\photo2.jpg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\info-box.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\info-box.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\invoice.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\invoice.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\labels.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\labels.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\lockscreen.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\lockscreen.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\login_and_register.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\login_and_register.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\mailbox.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\mailbox.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\miscellaneous.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\miscellaneous.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\mixins.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\mixins.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\modal.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\modal.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\navs.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\navs.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\print.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\print.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\products.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\products.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\profile.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\profile.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\progress-bars.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\progress-bars.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\select2.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\select2.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\sidebar-mini.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\sidebar-mini.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\sidebar.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\sidebar.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\_all-skins.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\_all-skins.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-black-light.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-black-light.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-black.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-black.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-blue-light.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-blue-light.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-blue.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-blue.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-green-light.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-green-light.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-green.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-green.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-purple-light.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-purple-light.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-purple.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-purple.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-red-light.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-red-light.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-red.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-red.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-yellow-light.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-yellow-light.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\skins\\skin-yellow.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\skins\\skin-yellow.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\small-box.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\small-box.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\social-widgets.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\social-widgets.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\table.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\table.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\timeline.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\timeline.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\users-list.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\users-list.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\adminlte\\variables.less",
+      "PackagePath": "staticwebassets\\Content\\adminlte\\variables.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\alerts.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\alerts.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\background-variant.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\background-variant.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\border-radius.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\border-radius.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\buttons.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\buttons.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\center-block.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\center-block.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\clearfix.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\clearfix.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\forms.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\forms.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\gradients.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\gradients.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\grid-framework.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\grid-framework.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\grid.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\grid.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\hide-text.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\hide-text.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\image.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\image.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\labels.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\labels.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\list-group.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\list-group.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\nav-divider.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\nav-divider.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\nav-vertical-align.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\nav-vertical-align.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\opacity.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\opacity.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\pagination.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\pagination.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\panels.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\panels.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\progress-bar.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\progress-bar.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\reset-filter.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\reset-filter.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\reset-text.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\reset-text.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\resize.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\resize.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\responsive-visibility.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\responsive-visibility.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\size.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\size.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\tab-focus.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\tab-focus.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\table-row.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\table-row.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\text-emphasis.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\text-emphasis.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\text-overflow.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\text-overflow.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\mixins\\vendor-prefixes.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\mixins\\vendor-prefixes.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\bootstrap-less\\variables.less",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-less\\variables.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\all.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\aero.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\flat.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\green.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\green.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\grey.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\orange.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\pink.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\purple.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\red.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\red.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\yellow.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\aero.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\aero.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\blue.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\blue.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\green.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\green.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\grey.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\grey.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\line.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\line.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\orange.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\orange.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\pink.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\pink.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\purple.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\purple.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\red.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\red.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\line\\yellow.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\aero.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\blue.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\green.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\grey.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\minimal.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\minimal.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\orange.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\pink.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\purple.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\red.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\yellow.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\aero.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\aero.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\blue.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\blue.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\green.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\green.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\grey.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\grey.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\orange.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\orange.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\pink.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\pink.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\purple.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\purple.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\red.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\red.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\square.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\square.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\yellow.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\Content\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\images\\logo-login.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\logo-login.svg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\logo.svg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\images\\logo1.jpeg",
+      "PackagePath": "staticwebassets\\Content\\images\\logo1.jpeg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\32px.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\32px.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\alarm-clock.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\alarm-clock.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\application-resize-actual.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\application-resize-actual.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\application-resize-full.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\application-resize-full.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\arrow-circle-135.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\arrow-circle-135.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\arrow-curve-left.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\arrow-curve-left.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\arrow-down.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\arrow-down.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\arrow-step-over.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\arrow-step-over.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\back-arrow-white.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\back-arrow-white.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\balance.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\balance.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\bomb.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\bomb.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\box.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\box.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\calculator3.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\calculator3.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\calendar-blue.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\calendar-blue.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\check2.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\check2.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\checkbox-no.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\checkbox-no.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\checkbox-null.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\checkbox-null.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\checkbox-states.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\checkbox-states.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\checkbox-yes.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\checkbox-yes.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\clock.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\clock.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\cross-script.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\cross-script.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\cross.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\cross.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\csv.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\csv.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\data-sync.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\data-sync.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\delete.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\delete.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\delete2.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\delete2.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\document-copy.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\document-copy.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\document-task.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\document-task.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\docx.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\docx.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\down.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\down.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\dropdown.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\dropdown.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\edit.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\edit.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\eraser-plus.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\eraser-plus.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\eraser.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\eraser.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\folder-import.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\folder-import.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\full-screen-2.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\full-screen-2.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\gtk-print-preview.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\gtk-print-preview.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\header-columns-bg.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\header-columns-bg.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\header-columns-over-bg.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\header-columns-over-bg.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\icon_sprite.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\icon_sprite.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\loading.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\lock.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\lock.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\magnifier-left.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\magnifier-left.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\magnifier.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\magnifier.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\mail.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\mail.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\maximize-button.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\maximize-button.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\mhtml.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\mhtml.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\money.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\money.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\node-insert-next.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\node-insert-next.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\node-select-all.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\node-select-all.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\ok.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\ok.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\outlook.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\outlook.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\pager-load.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\pager-load.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\paper-clip.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\paper-clip.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\pencil.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\pencil.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\quick-search-loading.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\quick-search-loading.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\slash.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\slash.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\spreadsheet.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\spreadsheet.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\star-pencil.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\star-pencil.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\sticky-note-plus.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\sticky-note-plus.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\store.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\store.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\table.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\table.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\tag-label.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\tag-label.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\thumb-file-72.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\thumb-file-72.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\tick-empty.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\tick-empty.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\tick-green.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\tick-green.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\tick-red.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\tick-red.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\toggle-expand.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\toggle-expand.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\toggle.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\toggle.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\trash.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\trash.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\unchecked.gif",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\unchecked.gif"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\universal.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\universal.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\unlock-disable.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\unlock-disable.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\unlock.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\unlock.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\users.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\users.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\wand-plus.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\wand-plus.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\wheel.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\wheel.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\xml.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\xml.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\images\\zoom.png",
+      "PackagePath": "staticwebassets\\Content\\serenity\\images\\zoom.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\serenity.bootstrap.messagedialogs.css",
+      "PackagePath": "staticwebassets\\Content\\serenity\\serenity.bootstrap.messagedialogs.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\serenity.css",
+      "PackagePath": "staticwebassets\\Content\\serenity\\serenity.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\serenity.editors.css",
+      "PackagePath": "staticwebassets\\Content\\serenity\\serenity.editors.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\serenity\\serenity.jquery-ui.messagedialogs.css",
+      "PackagePath": "staticwebassets\\Content\\serenity\\serenity.jquery-ui.messagedialogs.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\accordion-arrows.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\accordion-arrows.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\serenity-logo-40.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\serenity-logo-40.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\serenity-logo-g-40.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\serenity-logo-g-40.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\serenity-logo-w-128.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\serenity-logo-w-128.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\serenity-logo-w-40.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\serenity-logo-w-40.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\tick-empty.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\tick-empty.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\tick-green-partial.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\tick-green-partial.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\images\\tick-red-partial.png",
+      "PackagePath": "staticwebassets\\Content\\site\\images\\tick-red-partial.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.administration.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.administration.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.basicsamples.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.basicsamples.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.bookings.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.bookings.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.css",
+      "PackagePath": "staticwebassets\\Content\\site\\site.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.htmlcontent.css",
+      "PackagePath": "staticwebassets\\Content\\site\\site.htmlcontent.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.inspections.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.inspections.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.invoices.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.invoices.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.jobcards.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.jobcards.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.masters.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.masters.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.membership.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.membership.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.mixins.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.mixins.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.northwind.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.northwind.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.quotations.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.quotations.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\site\\site.rtl.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.theme.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.theme.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\site.vehicles.less",
+      "PackagePath": "staticwebassets\\Content\\site\\site.vehicles.less"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\slides\\slide1.jpg",
+      "PackagePath": "staticwebassets\\Content\\site\\slides\\slide1.jpg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\slides\\slide2.jpg",
+      "PackagePath": "staticwebassets\\Content\\site\\slides\\slide2.jpg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Content\\site\\slides\\slide3.jpg",
+      "PackagePath": "staticwebassets\\Content\\site\\slides\\slide3.jpg"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\_references.js",
+      "PackagePath": "staticwebassets\\Scripts\\_references.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\adminlte\\app2.js",
+      "PackagePath": "staticwebassets\\Scripts\\adminlte\\app2.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\adminlte\\demo.js",
+      "PackagePath": "staticwebassets\\Scripts\\adminlte\\demo.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\adminlte\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\Scripts\\adminlte\\pages\\dashboard.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\adminlte\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\Scripts\\adminlte\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\chartjs\\Chart.js",
+      "PackagePath": "staticwebassets\\Scripts\\chartjs\\Chart.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\chartjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\chartjs\\Chart.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\datepicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Scripts\\datepicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\datepicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\Scripts\\datepicker\\datepicker3.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\daterangepicker\\daterangepicker-bs3.css",
+      "PackagePath": "staticwebassets\\Scripts\\daterangepicker\\daterangepicker-bs3.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Scripts\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Scripts\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Scripts\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\Scripts\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Scripts\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\Scripts\\fullcalendar\\fullcalendar.print.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\jquery.icheck.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.icheck.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\jquery.icheck.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.icheck.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\jquery.icheck.min.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.icheck.min.js.map"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Scripts\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\Scripts\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\Scripts\\morris\\morris.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\Scripts\\morris\\morris.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\morris\\morris.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\mousetrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\mousetrap.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\mousetrap.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\mousetrap.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\raphael\\raphael-min.js",
+      "PackagePath": "staticwebassets\\Scripts\\raphael\\raphael-min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\raphael\\raphael.js",
+      "PackagePath": "staticwebassets\\Scripts\\raphael\\raphael.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.CodeGeneration.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.CodeGeneration.js.map"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.CodeGeneration.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.CodeGeneration.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.CoreLib.js",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.CoreLib.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.CoreLib.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.CoreLib.js.map"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.CoreLib.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.CoreLib.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.Script.UI.js",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.Script.UI.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\Serenity.Script.UI.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\Serenity.Script.UI.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.bn.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.bn.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.de.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.de.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.es.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.es.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.fa.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.fa.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.it.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.it.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.pt-BR.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.pt-BR.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.pt.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.pt.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.ru.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.ru.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.tr.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.tr.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.vi-VN.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.vi-VN.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\serenity\\texts\\serenity.texts.zh-CN.json",
+      "PackagePath": "staticwebassets\\Scripts\\serenity\\texts\\serenity.texts.zh-CN.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\SmartERP.Web.js",
+      "PackagePath": "staticwebassets\\Scripts\\site\\SmartERP.Web.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\SmartERP.Web.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\site\\SmartERP.Web.js.map"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.de.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.de.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.es.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.es.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.fa.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.fa.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.invariant.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.invariant.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.it.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.it.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.pt-BR.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.pt-BR.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.pt.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.pt.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.ru.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.ru.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.tr.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.tr.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.vi-VN.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.vi-VN.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\site\\texts\\site.texts.zh-CN.json",
+      "PackagePath": "staticwebassets\\Scripts\\site\\texts\\site.texts.zh-CN.json"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\Scripts\\sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\01.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\01.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\02.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\02.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\03.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\03.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\04.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\04.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\05.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\05.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\06.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\06.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\07.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\07.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\08.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\08.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\overlays\\09.png",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\overlays\\09.png"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\vegas.css",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\vegas.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\vegas.js",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\vegas.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\vegas.min.css",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\vegas.min.css"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\vegas.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\vegas.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vegas\\vegas.min.js.map",
+      "PackagePath": "staticwebassets\\Scripts\\vegas\\vegas.min.js.map"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vue.js",
+      "PackagePath": "staticwebassets\\Scripts\\vue.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\Scripts\\vue.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\vue.min.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\_references.js",
+      "PackagePath": "staticwebassets\\_references.js"
+    },
+    {
+      "Id": "F:\\SmartGarage\\SmartGarage\\SmartERP.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.SmartERP.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.SmartERP.Web.props",
+      "PackagePath": "build\\SmartERP.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SmartERP.Web.props",
+      "PackagePath": "buildMultiTargeting\\SmartERP.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.SmartERP.Web.props",
+      "PackagePath": "buildTransitive\\SmartERP.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
